@@ -1,5 +1,4 @@
-# Bank Financial Report – Interactive Insights with Tableau 🚀
-
+# 📊 Bank Financial Report – Interactive Insights with Tableau 🚀
 Welcome to the Bank Financial Report repository! This project leverages Tableau to transform raw financial data into dynamic, interactive dashboards that provide clear insights into a bank’s performance. Whether you're a financial analyst, investor, or banking enthusiast, this repository is designed to make financial reporting more engaging and accessible.
 
 📂 What's Inside?
@@ -36,7 +35,16 @@ Banks face various financial risks. This Tableau dashboard highlights:
 ✔️ Market Risk – Interest rate fluctuations and currency exposure.
 ✔️ Regulatory Compliance – Capital adequacy ratios (CAR) and liquidity coverage.
 
-📊 Risk Heatmaps & KPI Dashboards provide a quick view of potential vulnerabilities.
+5. Graphs Used in the Dashboard
+📊 Bar Charts – Used for comparing revenue and expenses over time, helping to identify key trends and anomalies.
+
+📈 Line Charts – Track financial performance metrics such as profit growth, revenue trends, and liquidity ratios over a period.
+
+📊 Pie Charts – Provide a percentage breakdown of revenue sources, expense categories, and loan portfolio distribution.
+
+📉 Heatmaps – Help analyze branch performance, credit risk, and customer segmentation by visually representing high and low-performing areas.
+
+📍 Geo Maps – Display branch locations and financial performance by region, helping in geographic analysis.
 
 📊 5. Financial Performance Summary
 Get a high-level overview of the bank’s financial health with a Tableau Storyboard featuring:
@@ -52,13 +60,3 @@ This repository is useful for:
 🔹 Bank Executives – Strategic decision-making support.
 🔹 Investors & Regulators – Transparent reporting & compliance tracking.
 🔹 Developers – Building data-driven financial applications.
-
-🛠️ Tech Stack
-🔹 Tableau – Interactive dashboards & visual analytics
-🔹 CSV / Excel / SQL – Data sources for financial reports
-🔹 Python (Optional) – Data preprocessing & automation
-
-🎯 How You Can Contribute?
-📊 Got an idea? Enhance the dashboards with new financial metrics.
-🐞 Found an issue? Report bugs or suggest improvements.
-📂 Want to expand the dataset? Contribute real-world banking data (anonymized).
