@@ -1,4 +1,4 @@
-## Bank Financial Report – Interactive Insights with Tableau 🚀
+# Bank Financial Report – Interactive Insights with Tableau 🚀
 
 Welcome to the Bank Financial Report repository! This project leverages Tableau to transform raw financial data into dynamic, interactive dashboards that provide clear insights into a bank’s performance. Whether you're a financial analyst, investor, or banking enthusiast, this repository is designed to make financial reporting more engaging and accessible.
 
